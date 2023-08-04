@@ -13,7 +13,7 @@ const handler: APIGatewayProxyHandler = async request => {
         },
         tokenIdentifier: {
             network: "ETHEREUM_MAINNET",
-            contractAddress: "0x60e4d786628fea6478f785a6d7e704777c86a7c6"
+            contractAddress: "0xdac17f958d2ee523a2206206994597c13d831ec7"
         }
     });
 
